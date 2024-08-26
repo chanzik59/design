@@ -11,9 +11,9 @@ class DesignApplicationTests {
 
     @Test
     void contextLoads() {
-        log.info("info");
-        log.debug("debug");
-        log.warn("warn");
+        log.info("info1");
+        log.debug("debug1");
+        log.warn("warn1");
         log.trace("trace");
         log.error("error");
     }
