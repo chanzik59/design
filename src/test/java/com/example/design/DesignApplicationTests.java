@@ -13,9 +13,9 @@ class DesignApplicationTests {
     void contextLoads() {
         log.info("info");
         log.debug("debug");
-        log.warn("warn");
-        log.trace("trace");
-        log.error("error");
+        log.warn("warn2");
+        log.trace("trace2");
+        log.error("error2");
     }
 
 }
